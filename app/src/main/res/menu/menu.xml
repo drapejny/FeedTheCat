@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_about_developer"
+        android:title= "@string/about_developer_text"/>
+    <item android:id="@+id/item_results"
+        android:title= "@string/results_text"/>
+    <item android:id="@+id/item_share_result"
+        android:title= "@string/share_result_text"/>
+    <item android:id="@+id/item_rules"
+        android:title="@string/rules_text"/>
+</menu>

@@ -1,0 +1,30 @@
+<resources>
+    <!--Splash screen-->
+    <string name="app_name">Anton Slizh\'s FeedTheCat</string>
+
+    <!--Main activity-->
+    <string name="satiety_text">Satiety</string>
+    <string name="feed_button">Feed</string>
+    <string name="play_button">Play</string>
+
+    <!--Menu items-->
+    <string name="about_developer_text">About developer</string>
+    <string name="share_result_text">Share result</string>
+    <string name="results_text">Results</string>
+    <string name="rules_text">Rules</string>
+
+    <!--Game activity-->
+    <string name="shot_button">Shot</string>
+    <string name="start_button">Start</string>
+    <string name="score_text">Score</string>
+
+    <!--About developer-->
+    <string name="about_developer_info">Anton Slizh, 951005</string>
+
+    <!--Share result in social media-->
+    <string name="shared_in_social_media_msg">My best result in \"Anton Slizh\'s FeedTheCat\" is:</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+</resources>
